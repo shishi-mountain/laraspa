@@ -25,6 +25,3 @@ https://noumenon-th.net/programming/2020/02/13/laravel-vue-spa/
 composer require laravel/ui:1*
 ```
 https://zakkuri.life/%E3%80%90laravel%E3%80%91composer-require-laravel-ui%E3%81%A7%E3%82%A8%E3%83%A9%E3%83%BC/
-
-- 【Vue】エラー対処法。did you register the component correctly? For recursive components, make sure to provide the "name" option.
-https://qiita.com/shizen-shin/items/9822f6299cbc4086a1d6
